@@ -1,0 +1,9 @@
+git status               # Check file & branch status
+git log                  # Commit history
+git log --oneline        # Short commit history
+git diff                 # View changes
+-----------------------------------------------
+
+git add file.txt         # Add single file
+git add .                # Add all changes
+git commit -m "message"  # Commit changes
